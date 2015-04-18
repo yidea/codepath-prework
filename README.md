@@ -19,3 +19,6 @@ Test:
 curl -v http://127.0.0.1:8001 -H "x-destination-url: http://www.google.com" -d "asdf"
 curl -v http://127.0.0.1:8001 -H "x-asdf: test" -d "asdf"
 cat /tmp/proxy-server.log
+
+### Reference 
+http://courses.codepath.com/snippets/intro_to_nodejs/prework

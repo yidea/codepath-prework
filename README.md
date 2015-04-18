@@ -5,9 +5,9 @@
 - npm start
 
 ### Content
-1 Build a proxy server and setup logging
-2 Develop a command-line interface (CLI) to configure the server
-3 (TODO) Extend your proxy server with additional functions 
+1. Build a proxy server and setup logging
+2. Develop a command-line interface (CLI) to configure the server
+3. (TODO) Extend your proxy server with additional functions 
 
 ### Test
 CLI:
